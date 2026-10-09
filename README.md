@@ -162,3 +162,9 @@ jupyter notebook Digit_recognizer.ipynb
 | `seaborn`      | Enhanced data visualizations     |
 | `scikit-learn` | Train/test splitting             |
 | `tensorflow`   | Keras deep learning model        |
+
+---
+
+## Author 
+
+Tasneem Ibrahim - Abdulrahman Harb - Mariam Sobhy - Rokaia Islam
